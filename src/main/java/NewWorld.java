@@ -19,12 +19,6 @@ public class NewWorld {
 		System.out.println("This is bllL branch");
 		System.out.println("This is bllL branch");
 	}
-	
-	// From Branch b1
-		public void mainB1()
-		{
-			System.out.println("This is bl branch");
-			System.out.println("This is bll branch");
-		}
+	// From Branch D1
 
 }
